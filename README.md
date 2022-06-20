@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @lixvinity
+- 👀 I’m interested in game dev
+- 🌱 I’m currently learning Ue5 Blueprints
